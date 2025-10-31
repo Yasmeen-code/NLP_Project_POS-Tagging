@@ -1,0 +1,32 @@
+{
+  "label_smoothing":0.0,
+  "labels":[
+    "NN",
+    "VBN",
+    "VBG",
+    "NNS",
+    "JJ",
+    "RB",
+    "VB",
+    "VBD",
+    "IN",
+    "DT",
+    "VBZ",
+    "VBP",
+    "CC",
+    "JJS",
+    "RBR",
+    "JJR",
+    "CD",
+    "MD",
+    "PRP",
+    "PRP$",
+    "WRB",
+    "TO",
+    "WDT",
+    "WP",
+    "WP$"
+  ],
+  "neg_prefix":"!",
+  "overwrite":false
+}
